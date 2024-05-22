@@ -1,2 +1,2 @@
 # tktinter
-Some tktinter little programs to learn how to use it.
+Some tkinter little programs to learn how to use it.
